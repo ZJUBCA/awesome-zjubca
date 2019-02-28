@@ -21,7 +21,8 @@ A list of awesome things created by ZJUBCA.
 
 ### Other Dapps
 - [Resume-Verification](https://github.com/Blockchain-zju/ResumeVerification) - 基于星云链的简历验证系统 / Resume Verification
-- [Girl-Gene](https://github.com/Blockchain-zju/GirlGene) - 
+- [Girl-Gene](https://github.com/Blockchain-zju/GirlGene) - 基于区块链的二次元少女生成游戏 / 2D Girl Generation based on blockchain
+- [群雄逐鹿 Dear of the Anti-hero (DotA)](https://github.com/treasersimplifies/DeeroftheAntihero_DotA) - 基于区块链的策略类攻防游戏
 
 ## Library and Framework
 - [zjubca-scatter-js](https://github.com/Blockchain-zju/zjubca-scatter-js) - 基于ScatterJS二次开发，让Dapp适配协会钱包 / Re-dev ScatterJS to support ZJUBCA.WALLET
