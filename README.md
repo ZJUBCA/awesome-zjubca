@@ -29,5 +29,5 @@ A list of awesome things created by ZJUBCA.
 ## Knowledges
 - [references](https://github.com/Blockchain-zju/references) - 开源知识仓库 / OpenSource Knowledge Repo
 - [ZJUBCA.Docs](https://docs.zjubca.org) - 协会官方文档库 / Official Document Website
-- [Events](https://github.com/Blockchain-zju/events) - 协会活动 / Official Events
+- [Events](https://github.com/Blockchain-zju/events) - 协会活动资料库 / Official Events 
 
